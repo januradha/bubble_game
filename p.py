@@ -1,4 +1,5 @@
 def fun():
     print "test"
     print "Testing Process"
-fun()
+p= fun()
+print p
